@@ -1,0 +1,161 @@
+#n1co{
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+#nda{
+   margin-right:200px;
+   margin-top:20px;
+}
+#dim{
+    color: gray;
+}
+#BSNVS{
+    display: flex;
+  
+}
+#btlo{
+    color: white;
+    margin-top: 10px;
+}
+#Dashboard{
+    background-color: rgb(22, 22, 67);
+    display: flex;
+    color: white;
+    padding: 5px;
+
+}
+#dd{
+    margin-left: 10px;
+}
+#dia{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+#BUT3{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+#addb{
+    width:250px;
+   
+    
+}
+
+#AD{
+  text-align: center;
+ 
+  width: 100%;
+
+}
+#ple1{
+    background-color: white;
+    margin-top: -5px;
+}
+#ple2{
+    background-color: white;
+    margin-top: -5px;
+}
+#ple3{
+    background-color: white;
+    margin-top: -5px;
+}
+#add1{
+    width: 270px;
+    color: white;
+    border: 0px;
+    background: linear-gradient(45deg,darkslategrey,cornflowerblue);
+    
+}
+#addt{
+    background: linear-gradient(45deg,darkslategrey,cornflowerblue);
+
+}
+#addtb{
+    background-color:lightgray;
+}
+#addcb{
+    background-color:lightgray;
+
+}
+#addce{
+    background-color:lightgray;
+
+}
+
+#add2{
+    width: 270px;
+    border: 0px;
+    background: linear-gradient(45deg,darkslategrey,limegreen);
+}
+#addc{
+    background: linear-gradient(45deg,darkslategrey,limegreen);
+
+}
+#add3{
+    width: 270px;
+    border: 0px;
+    background: linear-gradient(45deg,darkslategrey,coral);
+}
+#adde{
+    background: linear-gradient(45deg,darkslategrey,coral);
+  
+}
+#ch1{
+    background-color: black;
+    color: white;
+    padding: 3px;
+    
+}
+#tdh1{
+    background-color: black;
+}
+#aaa{
+    padding:20px;
+}
+.set1{
+    border: 2px solid gray;
+    background-color: aliceblue;
+}
+#list{
+    display: flex;
+}
+#num{
+   font-size: 60px;
+   margin-top: -10px;
+}
+#car1{
+    background: linear-gradient(35deg,darkslategrey,cornflowerblue);
+    color: white;
+  
+}
+
+#car2{
+    color: white;
+    background: linear-gradient(45deg,darkslategrey,limegreen);
+
+
+}
+#car3{
+    color: white;
+    background: linear-gradient(45deg,darkslategrey,coral);
+
+}
+
+#tbl{
+    padding:30px;
+}
+#for{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#VASU{
+    color: darkgoldenrod;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
